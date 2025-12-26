@@ -27,6 +27,6 @@ export default defineConfig({
     },
   },
   server: {
-    allowedHosts: ['.tryhydrogen.dev'],
+    allowedHosts: ['.tryhydrogen.dev', 'iovista.digital', 'www.iovista.digital'],
   },
 });
